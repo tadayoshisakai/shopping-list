@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="Shopping List">652354a71b9c1110d8286575624bcb8e</navigation_tab>
+        <order>300</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 00:32:20</sys_created_on>
+        <sys_id>8e23d82b1b9c1110d8286575624bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_800183_shopping">6da0d0a71b9c1110d8286575624bcb4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">6da0d0a71b9c1110d8286575624bcb4a</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_8e23d82b1b9c1110d8286575624bcb3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 00:32:20</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>
